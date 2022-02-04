@@ -1,0 +1,17 @@
+{
+  "name": "tui_bot_for_kevinbang",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiran#1000",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.2.0",
+    "mongoose": "^5.11.9",
+    "node-fetch": "^2.6.1"
+  }
+}
